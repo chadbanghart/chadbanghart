@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Chad
+
+Simply put, I love to build things. My interests are peaked through the never ending learning process, challenges, and troubleshooting techniques associated with software engineering. Please check out some of my projects and get in touch!
+
+📫 You can reach me at ChadBanghartCode@gmail.com
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chadbanghart)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=chadbanghart)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chadbanghart/chadbanghart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
